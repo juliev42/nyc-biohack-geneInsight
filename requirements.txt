@@ -1,0 +1,8 @@
+openai==0.27.7
+pandas==1.4.4
+Requests==2.31.0
+streamlit==1.39.0
+langchain==0.3.4
+langchain-core==0.3.13
+langchain-openai==0.2.4
+langchain-text-splitters==0.3.0
